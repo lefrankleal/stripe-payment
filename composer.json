@@ -1,0 +1,11 @@
+{
+    "name": "lefrankleal/stripe-payment",
+    "description": "Stripe patment example",
+    "type": "project",
+    "require": {
+        "stripe/stripe-php": "^6.37",
+        "vlucas/phpdotenv": "^3.3"
+    },
+    "license": "GLP",
+    "minimum-stability": "alpha"
+}
